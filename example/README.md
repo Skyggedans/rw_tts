@@ -1,3 +1,3 @@
-# rw_speech_recognizer_example
+# rw_tts
 
 Demonstrates how to use the rw_tts plugin.

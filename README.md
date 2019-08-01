@@ -1,4 +1,4 @@
-# rw_help
+# rw_tts
 
 TTS plugin for RealWear HMT-1(Z1) 
 

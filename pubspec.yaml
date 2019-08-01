@@ -1,6 +1,6 @@
 name: rw_tts
-description: TTS plugin for RealWear HMT-1, wraps RealWear TTS service.
-version: 0.0.1
+description: TTS plugin for RealWear HMT-1, wraps RealWear TTS service. Allows to make any number of TTS requests differentiating them by request code.
+version: 1.0.1
 author: Andrei Klaptsov <skyggedanser@gmail.com>
 homepage: https://github.com/Skyggedans/rw_tts
 
